@@ -1,6 +1,6 @@
 <template>
-    <div class="md:w-1/5 bg-white shadow-2xl h-full rounded-lg m-4 p-4">
-        <h2>then...</h2>
+    <div class="md:w-1/5 bg-white shadow-2xl h-full rounded-lg m-4 py-6 px-10">
+        <h1 class="text-4xl">How</h1>
         <p>
             <b>
                 Degree in Computer Engineering

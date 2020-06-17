@@ -1,6 +1,6 @@
 <template>
-    <div class="md:w-1/5 bg-white shadow-2xl rounded-lg h-full m-4 p-6">
-        <h2 class="text-3xl bg-pink-500 text-white rounded-lg">Who</h2>
+    <div class="md:w-1/5 bg-white shadow-2xl rounded-lg h-full m-4 py-6 px-10">
+        <h1 class="text-4xl">Who</h1>
         <div>
             <img class="rounded-lg my-4" src="./me.jpg" alt="pay the internet company, man" />
         </div>

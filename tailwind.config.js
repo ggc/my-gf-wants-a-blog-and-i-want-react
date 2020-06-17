@@ -1,7 +1,9 @@
 module.exports = {
     theme: {
-        colors: {
-            pink: '#f72573',
+        extend: {
+            colors: {
+                purple: '#ff0000'
+            }
         }
     },
     variants: {},
